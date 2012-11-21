@@ -1,0 +1,31 @@
+                          Testprotokoll IFK FG380.221
+                          ===========================
+
+Datum: 20.01.09    Uhrzeit: 15:20
+Prüfer: Mister L
+
+             Testergebnis
+Lfd.Nr       PT   1    2    3    4    5    6    7    8    9    PF   Ergebnis
+----------------------------------------------------------------------------
+1            OK   OK    X   OK   OK   OK   OK   OK   OK   OK   OK   FEHLER
+
+
+
+
+
+
+
+
+
+
+-------------------------------
+          Unterschrift
+
+
+
+PT: Flash Testprogr.             5 : Piggy-Stecker shift test
+1 : Visueller LED Test           6 : Timing Test
+2 : VG-Leisten shift Test        7 : DRQ DRY INTRL Test
+3 : VG-Leisten select Test       8 : Externe Clock Test
+4 : VG-Leisten direction Test    9 : Externer Manchesterdec.Test
+                                 PF: Flash Finale Version
